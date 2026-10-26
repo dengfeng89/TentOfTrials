@@ -1,0 +1,3 @@
+NOT_A_VALID_LOG_LINE_JUST_CORRUPT_RANDOM_TEXT_12345!@#$%^
+[corrupt timestamp] level: ??? missing delimiters
+{corrupted_json: [unclosed array
